@@ -1,4 +1,4 @@
-# Master Thesis on Dimensionality Reduction Techniques
+# Advanced Dimensionality Reduction Techniques
 
 This repository contains the code and documentation for my master's thesis focused on dimensionality reduction techniques. The project investigates various methods for reducing the dimensionality of datasets while preserving their intrinsic properties, ultimately enhancing the performance of machine learning algorithms. All methods were implemented from scratch, showcasing a deep understanding of their underlying principles.
 
